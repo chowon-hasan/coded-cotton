@@ -45,6 +45,7 @@ export default async function ShopPage() {
             </Link>
           </div>
         ))}
+        <h1>Hello</h1>
       </div>
     </div>
   );
