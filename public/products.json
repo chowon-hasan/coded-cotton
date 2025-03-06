@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "name": "Code Mode On",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/CodeModeOn/codemodeonblack.webp",
+    "gallary": [
+      "/images/products/CodeModeOn/codemodeonblack.webp",
+      "/images/products/CodeModeOn/codemodeonwhite.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mind Map Designing",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Designer/designerwhite.webp",
+    "gallary": [
+      "/images/products/Designer/designerblack.webp",
+      "/images/products/Designer/designerwhite.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Just Do It",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/DoIt/doitblack.webp",
+    "gallary": [
+      "/images/products/DoIt/doitblack.webp",
+      "/images/products/DoIt/doitwhite.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dreamer is a winner",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Dreamer/dreamerblack.webp",
+    "gallary": [
+      "/images/products/Dreamer/dreamerblack.webp",
+      "/images/products/Dreamer/dreamerwhite.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eat, Code, Repeat",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/EatCodeRepeat/eatcoderepeatblack.webp",
+    "gallary": [
+      "/images/products/EatCodeRepeat/eatcoderepeatblack.webp",
+      "/images/products/EatCodeRepeat/eatcoderepeat.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Stay Focus",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Focus/focusblack.webp",
+    "gallary": [
+      "/images/products/Focus/focusblack.webp",
+      "/images/products/Focus/focuswhite.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Forn On Github",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/GitFork/gitforkwhite.webp",
+    "gallary": [
+      "/images/products/GitFork/gitforkblack.webp",
+      "/images/products/GitFork/gitforkwhite.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hustle Relentless",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Hustle/hustleblack.webp",
+    "gallary": [
+      "/images/products/Hustle/hustleblack.webp",
+      "/images/products/Hustle/hustlewhite.webp"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Loading",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Loading/loadingblack.webp",
+    "gallary": [
+      "/images/products/Loading/loadingblack.webp",
+      "/images/products/Loading/loadingwhite.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sweet Home",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/LocalHost/localhostwhite.webp",
+    "gallary": [
+      "/images/products/LocalHost/localhostblack.webp",
+      "/images/products/LocalHost/localhostwhite.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "You're Offline",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/OffLine/offlinewhite.webp",
+    "gallary": [
+      "/images/products/OffLine/offlineblack.webp",
+      "/images/products/OffLine/offlinewhite.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Turn On/Off",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/OnOff/onoffblack.webp",
+    "gallary": [
+      "/images/products/OnOff/onoffblack.webp",
+      "/images/products/OnOff/onoffwhite.webp"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Reload",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Reload/reloadblack.webp",
+    "gallary": [
+      "/images/products/Reload/reloadblack.webp",
+      "/images/products/Reload/reloadwhite.webp"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Take Risk, Be Rich",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/RiskRich/riskwhite.webp",
+    "gallary": [
+      "/images/products/RiskRich/riskblack.webp",
+      "/images/products/RiskRich/riskwhite.webp"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Solvem Probler",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/SolvemProbler/solvemblack.webp",
+    "gallary": [
+      "/images/products/SolvemProbler/solvemblack.webp",
+      "/images/products/SolvemProbler/solvemwhite.webp"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "UX/UI",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/UIUX/uiuxwhite.webp",
+    "gallary": [
+      "/images/products/UIUX/uiuxblack.webp",
+      "/images/products/UIUX/uiuxwhite.webp"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "UX/UI Box",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/UIX/uixblack.webp",
+    "gallary": [
+      "/images/products/UIX/uixblack.webp",
+      "/images/products/UIX/uixwhite.webp"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Visualization",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/Visaulization/visualblack.webp",
+    "gallary": [
+      "/images/products/Visaulization/visualblack.webp",
+      "/images/products/Visaulization/visualwhite.webp"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "IDE - VsCode",
+    "description": "Premium quality Poly/Spandex Interlock 280 GSM fabric t-shirt with high-quality DTF printing. Designed for tech enthusiasts. Soft, breathable, and perfect for everyday wear.",
+    "category": "Clothing",
+    "price": 650,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Black", "White", "Dark Gray"],
+    "material": "Premium Poly/Spandex Interlock 280 GSM",
+    "features": [
+      "Ultra-soft and stretchable fabric",
+      "Durable and long-lasting",
+      "Moisture-wicking and breathable",
+      "Wrinkle-resistant and easy to maintain",
+      "Machine washable"
+    ],
+    "image": "/images/products/VsCode/vscodeblack.webp",
+    "gallary": [
+      "/images/products/VsCode/vscodeblack.webp",
+      "/images/products/VsCode/vscodewhite.webp"
+    ]
+  }
+]
