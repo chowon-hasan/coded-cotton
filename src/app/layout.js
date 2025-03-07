@@ -11,8 +11,24 @@ const alumniSans = Alumni_Sans({
 });
 
 export const metadata = {
-  title: "CODED COTTON | cLOTHING ",
-  description: "PREMIUM TSHIRTS FOR FREELANCERS",
+  title: "CODED COTTON | Premium Freelancer T-Shirts | কোডেড কটন - সেরা ফ্রিল্যান্সার টি-শার্ট",
+  description:
+    "Premium quality t-shirts designed for freelancers, tech enthusiasts, and everyday comfort. Unique & stylish designs. কোডেড কটন - ফ্রিল্যান্সার, প্রযুক্তি প্রেমী ও দৈনন্দিন ব্যবহারের জন্য সেরা মানের টি-শার্ট। অনন্য ও স্টাইলিশ ডিজাইন।",
+  keywords:
+    "freelancer t-shirt, tech t-shirt, premium t-shirt, coded cotton, unique t-shirt, stylish t-shirt, premium clothing, Bangladesh t-shirt, ফ্রিল্যান্সার টি-শার্ট, টেক টি-শার্ট, প্রিমিয়াম টি-শার্ট, কোডেড কটন, ইউনিক টি-শার্ট, স্টাইলিশ টি-শার্ট, প্রিমিয়াম কাপড়, বাংলাদেশ টি-শার্ট",
+  openGraph: {
+    title: "CODED COTTON | Premium Freelancer T-Shirts | কোডেড কটন - সেরা ফ্রিল্যান্সার টি-শার্ট",
+    description: "Premium quality t-shirts designed for freelancers, tech enthusiasts, and everyday comfort. Unique & stylish designs. কোডেড কটন - ফ্রিল্যান্সার, প্রযুক্তি প্রেমী ও দৈনন্দিন ব্যবহারের জন্য সেরা মানের টি-শার্ট। অনন্য ও স্টাইলিশ ডিজাইন।",
+    images: [""],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "CODED COTTON | Premium Freelancer T-Shirts | কোডেড কটন - সেরা ফ্রিল্যান্সার টি-শার্ট",
+    description: "Premium quality t-shirts designed for freelancers, tech enthusiasts, and everyday comfort. Unique & stylish designs. কোডেড কটন - ফ্রিল্যান্সার, প্রযুক্তি প্রেমী ও দৈনন্দিন ব্যবহারের জন্য সেরা মানের টি-শার্ট। অনন্য ও স্টাইলিশ ডিজাইন।",
+    images: [""],
+  },
 };
 
 export default function RootLayout({ children }) {
