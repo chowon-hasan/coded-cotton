@@ -29,6 +29,22 @@ export default function RootLayout({ children }) {
         `}
       </Script>
       {/* End Google Tag Manager */}
+
+      {/* Google Analytics (gtag.js) */}
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-KMZEY960TD"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-KMZEY960TD');
+        `}
+      </Script>
+      {/* End Google Analytics */}
+
       <body className="antialiased">
         {/* Google Tag Manager (noscript) */}
         <noscript>
