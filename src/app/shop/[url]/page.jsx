@@ -4,11 +4,11 @@ import SizeChart from "@/app/Components/SizeChart";
 import RecommendedProducts from "@/app/Components/RecommndProduct";
 import CartDrawer from "@/app/Components/CartDrawer";
 
-async function fetchProduct(id) {
+async function fetchProduct(url) {
   try {
     const res = await fetch("https://codedcotton.vercel.app/products.json");
     const products = await res.json();
-    const product = products.find((p) => p.id.toString() === id);
+    const product = products.find((p) => p.url === url);
     return product;
   } catch (error) {
     console.error("Error fetching product:", error);
@@ -17,8 +17,8 @@ async function fetchProduct(id) {
 }
 
 export default async function ProductPage({ params }) {
-  const { id } = await params;
-  const product = await fetchProduct(id);
+  const { url } = await params;
+  const product = await fetchProduct(url);
 
   if (!product) {
     return <p className="text-center mt-10">Product not found</p>;

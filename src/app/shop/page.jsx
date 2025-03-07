@@ -27,7 +27,7 @@ export default async function ShopPage() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-10">
         {products.map((product) => (
           <div key={product.id} className="relative rounded-lg ">
-            <Link href={`/shop/${product.id}`}>
+            <Link href={`/shop/${product.name}`}>
               <div>
                 <Image
                   width={400}
