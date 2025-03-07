@@ -101,7 +101,7 @@ export default async function ProductPage({ params }) {
         <CartDrawer product={product} />
 
         {/* Recommended Products */}
-        <RecommendedProducts currentProductId={id} />
+        <RecommendedProducts currentProductId={url} />
       </div>
     </main>
   );

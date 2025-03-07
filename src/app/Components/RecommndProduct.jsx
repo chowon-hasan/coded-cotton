@@ -28,12 +28,12 @@ export default async function RecommendedProducts({ currentProductId }) {
         {recommendedProducts.map((product) => (
           <Link
             key={product.id}
-            href={`/shop/${product.id}`}
+            href={`/shop/${product.url}`}
             className="flex-shrink-0 w-48 rounded-lg shadow-md hover:shadow-lg transition-shadow"
           >
             <div className="relative w-full">
               <Image
-                src={product.gallary[2]} // Use the first image from the gallery
+                src={product.gallary[0]} // Use the first image from the gallery
                 alt={product.name}
                 
                 className="object-cover rounded-md"
