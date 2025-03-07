@@ -18,7 +18,13 @@ export default function Header() {
         {/* Logo on the Left */}
         <div className="flex items-center">
           <Link href="/" className="">
-            <Image src="/images/logon.webp" priority alt="Logo" width={120} height={40} />
+            <Image
+              src="/images/logon.webp"
+              priority
+              alt="Logo"
+              width={120}
+              height={40}
+            />
           </Link>
         </div>
 
@@ -57,14 +63,13 @@ export default function Header() {
             Contact
           </Link>
           <Link
-            href="/help"
+            href="/get-help"
             className={`text-lg font-bold uppercase tracking-wider hover:text-[#6B8375] transition ${
               isScrolled ? "text-[#1e1e1e]" : "text-[#1e1e1e]"
             }`}
           >
             Help
           </Link>
-
         </nav>
 
         {/* Right Icons and Button */}
