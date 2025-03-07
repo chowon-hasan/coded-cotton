@@ -25,14 +25,116 @@
   </url>
   
   <!-- Product Pages - Example (You'll need to replace with actual product IDs) -->
-  <url>
-    <loc>https://codedcotton.vercel.app/shop/product-1</loc>
+ <url>
+    <loc>https://codedcotton.vercel.app/shop/code-mode-on-roundneck-tshirt-coded-cotton</loc>
     <lastmod>2023-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://codedcotton.vercel.app/shop/product-2</loc>
+    <loc>https://codedcotton.vercel.app/shop/mind-map-designing-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/just-do-it-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/dreamer-is-a-winner-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/eat-code-repeat-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/stay-focus-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/fork-on-github-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/hustle-relanteless-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/loading-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/sweet-home-localhost-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/offline-dino-chrome-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/turn-onoff-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/relaod-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/take-risk-be-rich-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/solvem-probler-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/uiux-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/uiux-box-design-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/visualization-roundneck-tshirt-coded-cotton</loc>
+    <lastmod>2023-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://codedcotton.vercel.app/shop/ide-vs-code-roundneck-tshirt-coded-cotton</loc>
     <lastmod>2023-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
