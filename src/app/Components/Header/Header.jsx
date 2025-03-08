@@ -4,9 +4,11 @@ import Link from "next/link";
 import Image from "next/image";
 import BuyButton from "../Buttons/BuyButton";
 import useScrollHeader from "./useScrollHeader";
+import SearchOverlay from "./SearchOverlay";
 
 export default function Header() {
   const isScrolled = useScrollHeader(); // Using the custom hook
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
 
   return (
     <header
@@ -76,22 +78,23 @@ export default function Header() {
         <div className="flex items-center space-x-5">
           {/* Search Icon */}
           <button
-            className={`hover:text-[#6B8375] focus:outline-none ${
+            onClick={() => setIsSearchOpen(!isSearchOpen)}
+            className={`p-2 hover:bg-gray-100 rounded-full ${
               isScrolled ? "text-gray-700" : "text-gray-700"
             }`}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6"
               fill="none"
               viewBox="0 0 24 24"
+              strokeWidth={1.5}
               stroke="currentColor"
+              className="w-6 h-6"
             >
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                strokeWidth={2}
-                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
               />
             </svg>
           </button>
@@ -171,6 +174,11 @@ export default function Header() {
           </button>
         </div>
       </div>
+
+      <SearchOverlay
+        isOpen={isSearchOpen}
+        onClose={() => setIsSearchOpen(false)}
+      />
     </header>
   );
 }
