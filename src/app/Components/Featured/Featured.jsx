@@ -21,7 +21,7 @@ export default function FeaturedItems() {
             key={product.id}
             className="relative rounded-lg group overflow-hidden"
           >
-            <Link href={`/shop/${product.id}`}>
+            <Link href={`/shop/${product.url}`}>
               <div className="relative">
                 <Image
                   width={700}

@@ -49,22 +49,25 @@ export default async function ShopPage() {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-10">
-        {products.map((product) => (
-          <div key={product.id} className="relative rounded-lg">
+        {products?.map((product) => (
+          <div
+            key={product.id}
+            className="relative rounded-lg group overflow-hidden"
+          >
             <Link href={`/shop/${product.url}`}>
-              <div>
+              <div className="relative">
                 <Image
-                  width={400}
-                  height={400}
+                  width={700}
+                  height={600}
                   src={product.image}
                   alt={product.name}
-                  className="w-full object-cover"
+                  className="w-full object-cover mx-auto hover:opacity-80 transition-opacity duration-300"
                 />
-              </div>
-              <div className="absolute bottom-0 bg-white/80 rounded w-full text-center py-2.5">
-                <p className="text-lg font-bold text-gray-800">
-                  ৳{product.price}
-                </p>
+                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-black/5 bg-opacity-50">
+                  <span className="text-white text-lg font-semibold">
+                    See Details
+                  </span>
+                </div>
               </div>
             </Link>
           </div>

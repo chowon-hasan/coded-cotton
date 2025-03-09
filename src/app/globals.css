@@ -12,6 +12,10 @@ body {
   background: var(--background);
   font-family: var(--font-alumni-sans);
 }
+p, li{
+  font-size: 17px !important
+}
+
 .slick-arrow {
   display: none !important;
 }
